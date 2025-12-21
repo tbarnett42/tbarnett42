@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tyrielle (Ty) Barnett 👋
 
-<!--
-**tbarnett42/tbarnett42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Resolution Specialist at Navy Federal Credit Union transitioning to Application Engineering. Currently pursuing MS in Information Technology while building web applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** SQL, React (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Recent Projects
+- 🎮 [Rock Paper Scissors](https://github.com/tbarnett42/Rock-Paper-Scissors) - Interactive game with score tracking
+- 💰 [Tip Calculator](https://github.com/tbarnett42/Tip-Calculator) - Financial calculation tool
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/tyriellebarnett](https://linkedin.com/in/tyriellebarnett)
+- Location: Pensacola, FL (Relocating to DMV 2027)
+
+## 🎯 2025 Goals
+- Land Application Engineer internship at Navy Federal
+- Build 12+ deployed projects
+- Learn React and SQL
+- Complete MS in Information Technology
