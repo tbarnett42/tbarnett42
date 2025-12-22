@@ -16,7 +16,7 @@ Resolution Specialist at Navy Federal Credit Union transitioning to Application 
 - LinkedIn: [linkedin.com/in/tyriellebarnett](https://linkedin.com/in/tyriellebarnett)
 - Location: Pensacola, FL (Relocating to DMV 2027)
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - Land Application Engineer internship at Navy Federal
 - Build 12+ deployed projects
 - Learn React and SQL
