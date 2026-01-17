@@ -1,76 +1,61 @@
-# Hi, I’m Tyrielle (Ty) Barnett 👋
+# Hi, I'm Tyrielle (Ty) Barnett
 
-I’m a career-transitioning, application-focused developer currently working as a **Resolution Specialist at Navy Federal Credit Union**, building toward a full-time **Software Engineer (Application-Focused)** role. I’m pursuing an **M.S. in Information Technology** and actively building projects centered on **secure APIs, authentication, and database-driven applications**.
+Resolution Specialist at Navy Federal Credit Union transitioning into Application Engineering. 7 years of payments operations experience. Pursuing an M.S. in Information Technology (graduating March 2027).
 
----
-
-## What I’m focused on
-- Building **business-facing applications** with clean, reliable backend logic
-- Developing **REST APIs** and integrating external services
-- Implementing **authentication & security fundamentals** (JWT, password hashing, middleware)
-- Strengthening database skills across **SQL and NoSQL**
-- Expanding into the **Microsoft/.NET ecosystem** (C# / .NET) while continuing Node.js development
+I build backend systems that reflect real-world financial workflows — the same patterns I've worked with in production.
 
 ---
 
-## Tech I use
-**Languages:** JavaScript (ES6+), TypeScript, C# (learning), Python, SQL  
-**Backend:** Node.js, Express  
-**Frontend:** HTML, CSS, React (learning)  
-**Databases:** MongoDB, PostgreSQL/MySQL (varies by project)  
-**Tools:** Git/GitHub, Postman, VS Code
+## Featured Project
+
+### Transaction Processing Simulator
+
+A backend service that simulates real-world transaction processing workflows with authentication, webhooks, and batch processing.
+
+**Live Demo:** https://transaction-processing-simulator-production.up.railway.app/api-docs
+
+**GitHub:** https://github.com/tbarnett42/transaction-processing-simulator
+
+**Features:**
+- Rules engine for fraud detection and compliance
+- Full transaction lifecycle (create, process, cancel, refund, retry)
+- JWT authentication with role-based access (admin, operator, user)
+- Webhook notifications with HMAC signatures and retry logic
+- Batch processing for high-volume operations
+- Swagger/OpenAPI documentation
+
+**Tech:** TypeScript, Node.js, Express, MongoDB, JWT, bcrypt
 
 ---
 
-## Featured projects
-Here are a few projects that represent the direction I’m growing in:
+## Tech Stack
 
-### 🔐 JWT Authentication API
-Secure REST API featuring:
-- User registration & login
-- JWT-based auth
-- Password hashing
-- Auth middleware patterns
-- Database persistence (MongoDB)
+**Languages:** TypeScript, JavaScript (ES6+), C# (learning)
 
-➡️ Repo: https://github.com/tbarnett42/jwt-authentication-api
+**Backend:** Node.js, Express
 
-### ✅ Task Management / CRUD App
-A task management app demonstrating:
-- Create/Read/Update/Delete functionality
-- DOM + local storage persistence
-- Responsive UI and real-time updates
+**Databases:** MongoDB
 
-➡️ Repo: https://github.com/tbarnett42/To-Do-List
-
-### 📊 Crypto Dashboard
-A front-end focused dashboard that:
-- Consumes a public REST API
-- Displays real-time market data
-- Emphasizes responsive UI and data presentation
-
-➡️ Repo: https://github.com/tbarnett42/Crypto_dashboard
+**Tools:** Git/GitHub, Postman, VS Code, Railway
 
 ---
 
-## What I bring from enterprise experience
-At Navy Federal, I regularly collaborate across technology and operations to troubleshoot and resolve complex issues across enterprise systems and payment workflows. That background helps me build software with a strong focus on:
-- reliability
-- clarity
-- security awareness
-- real-world user impact
+## What I Bring
+
+7 years at Navy Federal taught me how transactions flow through enterprise systems. I've troubleshot payment workflows, collaborated across technology and operations teams, and resolved complex issues in production environments.
+
+That background shapes how I build software — with a focus on reliability, clear error handling, and real-world user impact.
 
 ---
 
-## Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/tyriellebarnett  
+## Currently Building
+
+- **Payments Analytics Dashboard** — React frontend to visualize transaction data from my backend API
+- **Payments Reconciliation Service** — Compare transaction records from multiple sources, identify mismatches
+
+---
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/tyriellebarnett
 - **GitHub:** https://github.com/tbarnett42
-
----
-
-## Currently building (2026)
-I’m working toward two portfolio projects designed to mirror real-world enterprise applications:
-1. **Enterprise Workflow App** (role-based access + audit logs + workflow states)
-2. **Transaction Processing API** (status lifecycle + validation + error handling)
-
-More updates soon.
