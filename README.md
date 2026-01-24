@@ -3,7 +3,7 @@ Backend Developer building payment-inspired systems. 7+ years in payments ops at
 
 **Focus:** Node.js/TypeScript • REST APIs • Auth (JWT/RBAC) • MongoDB • Cloud deployments
 
-🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/tyriellebarnett) • [GitHub](https://github.com/tbarnett42)  
+🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/tyriellebarnett) 
 🎓 M.S. Information Technology (Enterprise Networks & Cloud Computing) — **Expected March 2027**
 
 ---
