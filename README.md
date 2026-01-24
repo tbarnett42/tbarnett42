@@ -1,61 +1,43 @@
-# Hi, I'm Tyrielle (Ty) Barnett
+# Tyrielle (Ty) Barnett
+Backend Developer building payment-inspired systems. 7+ years in payments ops at Navy Federal → now shipping production-style APIs.
 
-Resolution Specialist at Navy Federal Credit Union transitioning into Application Engineering. 7 years of payments operations experience. Pursuing an M.S. in Information Technology (graduating March 2027).
+**Focus:** Node.js/TypeScript • REST APIs • Auth (JWT/RBAC) • MongoDB • Cloud deployments
 
-I build backend systems that reflect real-world financial workflows — the same patterns I've worked with in production.
+🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/tyriellebarnett) • [GitHub](https://github.com/tbarnett42)  
+🎓 M.S. Information Technology (Enterprise Networks & Cloud Computing) — **Expected March 2027**
 
 ---
 
-## Featured Project
-
-### Transaction Processing Simulator
-
+## Featured Project — Transaction Processing Simulator
 A backend service that simulates real-world transaction processing workflows with authentication, webhooks, and batch processing.
 
-**Live Demo:** https://transaction-processing-simulator-production.up.railway.app/api-docs
+- **Live API Docs (Swagger):** https://transaction-processing-simulator-production.up.railway.app/api-docs  
+- **Repo:** https://github.com/tbarnett42/transaction-processing-simulator
 
-**GitHub:** https://github.com/tbarnett42/transaction-processing-simulator
-
-**Features:**
-- Rules engine for fraud detection and compliance
-- Full transaction lifecycle (create, process, cancel, refund, retry)
-- JWT authentication with role-based access (admin, operator, user)
-- Webhook notifications with HMAC signatures and retry logic
-- Batch processing for high-volume operations
-- Swagger/OpenAPI documentation
+**Key capabilities**
+- Rules engine (fraud/compliance-style validation)
+- Full lifecycle: create → process → cancel/refund/retry
+- JWT auth + role-based access (admin/operator/user)
+- Webhook notifications with HMAC signatures + retry logic
+- Batch processing for higher-volume operations
 
 **Tech:** TypeScript, Node.js, Express, MongoDB, JWT, bcrypt
 
 ---
 
-## Tech Stack
-
-**Languages:** TypeScript, JavaScript (ES6+), C# (learning)
-
-**Backend:** Node.js, Express
-
-**Databases:** MongoDB
-
-**Tools:** Git/GitHub, Postman, VS Code, Railway
-
----
-
 ## What I Bring
-
-7 years at Navy Federal taught me how transactions flow through enterprise systems. I've troubleshot payment workflows, collaborated across technology and operations teams, and resolved complex issues in production environments.
-
-That background shapes how I build software — with a focus on reliability, clear error handling, and real-world user impact.
+I’ve spent 7 years supporting payment workflows in production environments—understanding how transactions move through enterprise systems, where failures happen, and how reliability is maintained. I build software with clear error handling, security-first defaults, and real operational realism.
 
 ---
 
 ## Currently Building
-
-- **Payments Analytics Dashboard** — React frontend to visualize transaction data from my backend API
-- **Payments Reconciliation Service** — Compare transaction records from multiple sources, identify mismatches
+- **Payments Analytics Dashboard:** React UI to visualize transaction data from my backend APIs
+- **Payments Reconciliation Service:** compares records across sources and flags mismatches
 
 ---
 
-## Connect
+## Pinned Projects (start here)
+- Transaction Processing Simulator (flagship)
+- JWT Authentication API
+- Personal Payments API
 
-- **LinkedIn:** https://www.linkedin.com/in/tyriellebarnett
-- **GitHub:** https://github.com/tbarnett42
