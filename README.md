@@ -1,6 +1,6 @@
 # Tyrielle Barnett
 
-Backend Developer building payment-inspired systems.
+Backend Engineer | C# | .NET | Building financial systems
 
 - 7+ years in payments operations at Navy Federal Credit Union  
 - Focus: Node.js/JavaScript, REST APIs, JWT Authentication, MongoDB, Cloud deployment
