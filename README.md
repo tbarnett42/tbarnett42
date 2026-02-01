@@ -13,11 +13,11 @@ Backend service simulating real-world payment transaction workflows with rules v
 - Repo: https://github.com/tbarnett42/transaction-processing-simulator
 
 ## Tech Focus
-- JavaScript / TypeScript
-- Node.js + Express
-- MongoDB + PostgreSQL
+- C# / ASP.NET Core
+- PostgreSQL + MongoDB
 - JWT Auth + Role-Based Access Control
-- AWS + Deployment Foundations
+- Node.js / TypeScript (secondary)
+- Azure + CI/CD via GitHub Actions
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/tyriellebarnett  
