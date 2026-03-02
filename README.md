@@ -1,24 +1,20 @@
 # Tyrielle Barnett
 
-Backend Engineer | C# | .NET | Building financial systems
+Software engineering student focused on backend development with C# and ASP.NET Core.
+Building secure REST APIs using JWT authentication and role-based access control (RBAC).
 
-- 7+ years in payments operations at Navy Federal Credit Union  
-- Focus: Node.js/JavaScript, REST APIs, JWT Authentication, MongoDB, Cloud deployment
-
-## Featured Project
-**Transaction Processing Simulator**  
-Backend service simulating real-world payment transaction workflows with rules validation, RBAC, webhooks, and batch processing.
-
-- Live Swagger Demo: https://transaction-processing-simulator-production.up.railway.app/api-docs  
-- Repo: https://github.com/tbarnett42/transaction-processing-simulator
-
-## Tech Focus
+## Skills
 - C# / ASP.NET Core
-- PostgreSQL + MongoDB
-- JWT Auth + Role-Based Access Control
-- Node.js / TypeScript (secondary)
-- Azure + CI/CD via GitHub Actions
+- REST API Design
+- JWT Authentication & RBAC
+- Clean Architecture
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/tyriellebarnett  
-- GitHub: https://github.com/tbarnett42
+## About
+I come from a high-complexity operational background where accuracy and risk management
+mattered. That experience shapes how I write code — carefully, defensively, and with
+real-world constraints in mind.
+
+Currently looking for internship, entry-level, or junior backend roles in .NET environments.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/tyriellebarnett)
